@@ -1,0 +1,20 @@
+
+p{
+font-size:40px;
+color:salmon;
+}
+h1{
+color:deep pink;
+}
+.awesome{
+color:teal;
+}	
+h1 span{
+	text-transform: uppercase;
+}
+.awesome.bbg{
+	text-align:center;
+}
+body{
+		background-color:mediumslateblue;
+}
